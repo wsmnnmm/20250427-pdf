@@ -23,8 +23,8 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/pdf01.git
-cd pdf01
+git clone https://github.com/wsmnnmm/20250427-pdf.git
+cd 20250427-pdf
 ```
 
 ### 2. 安装依赖
