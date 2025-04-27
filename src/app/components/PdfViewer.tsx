@@ -231,7 +231,7 @@ export default function PdfViewer() {
                       aria-label="旋转页面"
                     >
                       <svg
-                        class="w-3"
+                        className="w-3"
                         xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 512 512"
                       >
